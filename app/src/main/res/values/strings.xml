@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Course work</string>
+    <string name="email">ihor693@gmail.com</string>
+
+    // navigation menu
+    <string name="home">Главная</string>
+    <string name="contracts">Контракты</string>
+    <string name="clients">Клиенты</string>
+    <string name="routs">Маршруты</string>
+    <string name="operators">Операторы</string>
+    <string name="branches">Филлиалы</string>
+
+    // table names
+    <string name="passport">Паспорт:</string>
+    <string name="first_name">Имя:</string>
+    <string name="last_name">Фамилия:</string>
+    <string name="phone">Телефон:</string>
+    <string name="country">Страна:</string>
+    <string name="contract">Договор:</string>
+    <string name="client">Клиент:</string>
+    <string name="start_date">Дата начала:</string>
+    <string name="end_date">Дата окончания:</string>
+    <string name="route">Маршрут:</string>
+    <string name="branch">Филлиал:</string>
+    <string name="operator">Оператор:</string>
+    <string name="seats_number">Количество мест:</string>
+    <string name="address">Адрес:</string>
+
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+    <string name="date_format">yyyy-mm-dd</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    // add menu
+    <string name="add_contract">Создать контракт</string>
+    <string name="correct_input">Введите корректые данные</string>
+    <string name="add">Добавить</string>
+    <string name="cancel">Отмена</string>
+    <string name="add_client">Добавить клиента</string>
+    <string name="add_operator">Добавить оператора</string>
+    <string name="add_route">Добавить маршрут</string>
+    <string name="add_branch">Добавить филлиал</string>
+
+    // dialog fragment
+    <string name="created_contract">Констракт создан</string>
+    <string name="added_client">Клиент добавлен</string>
+    <string name="added_operator">Оператор добавлен</string>
+</resources>

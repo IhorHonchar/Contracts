@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add_contract"
+        android:title="@string/add_contract"/>
+    <item
+        android:id="@+id/add_client"
+        android:title="@string/add_client"/>
+    <item
+        android:id="@+id/add_operator"
+        android:title="@string/add_operator"/>
+    <item
+        android:id="@+id/add_route"
+        android:title="@string/add_route"/>
+    <item
+        android:id="@+id/add_branch"
+        android:title="@string/add_branch"/>
+</menu>

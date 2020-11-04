@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_contracts"
+            android:title="@string/contracts"/>
+        <item
+            android:id="@+id/nav_clients"
+            android:title="@string/clients"/>
+        <item
+            android:id="@+id/nav_operators"
+            android:title="@string/operators"/>
+        <item
+            android:id="@+id/nav_branches"
+            android:title="@string/branches"/>
+
+    </group>
+</menu>
